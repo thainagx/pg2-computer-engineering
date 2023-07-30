@@ -1,0 +1,870 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+   "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="eng" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" version="XHTML+RDFa 1.0" dir="ltr"
+   xmlns:content="http://purl.org/rss/1.0/modules/content/"
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:og="http://ogp.me/ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:sioc="http://rdfs.org/sioc/ns#"
+   xmlns:sioct="http://rdfs.org/sioc/types#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+   <head profile="http://www.w3.org/1999/xhtml/vocab">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+      <link rel="shortcut icon" href="https://saomateus.ufes.br/sites/all/themes/padrao_ufes/favicon.ico" type="image/vnd.microsoft.icon" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+      <title>Seja bem-vindo | CEUNES</title>
+   </head>
+   <body class="html front not-logged-in one-sidebar sidebar-first page-destaques i18n-pt-br page-views" >
+      <div id="skip-link">
+         <a class="element-invisible element-focusable">Jump to Navigation</a>
+      </div>
+      <div id="barra-ufes">
+         <div class="section">
+            <div class="region region-barra-ufes">
+               <div id="block-block-2" class="block block-block first last odd">
+                  <div class="content">
+                     <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+                        <ul id="menu-barra-temp" style="list-style:none;">
+                           <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                           <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://ufes.br/">Atualize sua Barra de Governo</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <!-- /.block -->
+            </div>
+            <!-- /.region -->
+         </div>
+      </div>
+      <!-- /.section, /#barra-ufes -->
+      <div id="page-wrapper">
+         <div id="page">
+            <div id="hierarquia-wrapper">
+               <div class="region region-hierarquia">
+                  <div id="block-menu-linksufes" class="block block-menu first last odd">
+                     <div class="content">
+                        <ul class="menu">
+                           <li class="first leaf dhtml-menu" id="dhtml_menu-274"><a href="http://portal.ufes.br/">Portal UFES</a></li>
+                           <li class="last leaf dhtml-menu" id="dhtml_menu-273"><a href="/fale-conosco">Fale conosco</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <!-- /.block -->
+               </div>
+               <!-- /.region -->
+            </div>
+            <!-- /#hierarquia-->
+            <div id="header-wrapper">
+               <div class="section clearfix">
+                  <div id="region-header-wrapper">
+                     <div class="region region-header">
+                        <div id="block-search-form" class="block block-search first odd">
+                           <div class="content">
+                              <form action="/" method="post" id="search-block-form" accept-charset="UTF-8">
+                                 <div>
+                                    <div class="container-inline">
+                                       <p class="element-invisible title-search-form">Formulário de busca</p>
+                                       <div class="form-item form-type-textfield form-item-search-block-form">
+                                          <label class="element-invisible" for="edit-search-block-form--2">Buscar </label>
+                                          <input title="Digite os termos que você deseja procurar." placeholder="Buscar" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="27" maxlength="128" class="form-text" />
+                                       </div>
+                                       <div class="form-actions form-wrapper" id="edit-actions">
+                                         <input alt="Buscar" type="image" id="edit-submit" name="submit" src="/sites/all/themes/padrao_ufes/images/lupa.png" class="form-submit" />
+                                       </div>
+                                       <input type="hidden" name="form_build_id" value="form-nNQHDGYUMMFpW2ZXvCmMg7KFyArv6dKpvQSTmUoVMiA" />
+                                       <input type="hidden" name="form_id" value="search_block_form" />
+                                    </div>
+                                 </div>
+                              </form>
+                           </div>
+                        </div>
+                        <!-- /.block -->
+                        <div id="block-text-resize-0" class="block block-text-resize even">
+                           <div class="content">
+                              <a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> 
+                              <a href="javascript:;" class="changer" id="text_resize_reset">A</a> 
+                              <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a>
+                             
+                           </div>
+                        </div>
+                        <!-- /.block -->
+                        <div id="block-high-contrast-high-contrast-switcher" class="block block-high-contrast odd">
+                           <div class="content">
+                              <div class="high_contrast_switcher high_contrast_switcher_links">
+                                 <p>
+                                    <span class="high_contrast_switcher_label">Contrast:</span><span class="high_contrast_switcher_high"><a href="" onclick="drupalHighContrast.enableStyles();">High</a></span><span class="high_contrast_switcher_separator">|</span><span class="high_contrast_switcher_normal"><a href="" onclick="drupalHighContrast.disableStyles();">Normal</a></span>
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                        <!-- /.block -->
+                        <div id="block-block-6" class="block block-block even">
+                           <div class="content">
+                              <div>
+                                 <a class="acessibilidade" href="/acessibilidade">Acessibilidade</a>
+                              </div>
+                           </div>
+                        </div>
+                        <!-- /.block -->
+                        <div id="block-block-7" class="block block-block last odd">
+                           <div class="content">
+                              <ul class="shortcuts">
+                                 <li id="link-content">
+                                    <a accesskey="1" >Ir para o conteúdo <span>1</span></a>
+                                 </li>
+                                 <li class="first" id="link-menu">
+                                    <a accesskey="2" href="#block-menu-menudeconteudo">Ir para o menu <span>2</span></a>
+                                 </li>
+                                 <li id="link-search">
+                                    <a accesskey="3" href="#edit-search-block-form--2" onclick="document.getElementById('edit-search-block-form--2').select();return false;">Ir para a busca <span>3</span></a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                        <!-- /.block -->
+                     </div>
+                     <!-- /.region -->
+                  </div>
+                  <!-- /#region-header-wrapper-->
+                  <div id="logo-wrapper">
+                     <div id="block-delta-blocks-logo">
+                        <a href="http://www.ufes.br" title="Ufes" rel="ufes" id="logo">
+                          <img src="https://saomateus.ufes.br/sites/all/themes/padrao_ufes/logo.png" alt="Padrão Ufes" />
+                        </a>
+                     </div>
+                  </div>
+                  <div id="name-and-slogan">
+                     <div id="site-name">
+                       <strong>
+                          <a href="/" title="Início" rel="home"><span>CEUNES</span></a>
+                       </strong>
+                     </div>
+                     <div id="site-slogan">Centro Universitário Norte do Espírito Santo, São Mateus - ES</div>
+                  </div>
+                  <!-- /#name-and-slogan -->
+               </div>
+            </div>
+            <!-- /.section, /#header -->
+            <div id="main-wrapper">
+               <div id="main" class="clearfix">
+                  <div id="content-wrapper">
+                     <div id="content" class="column">
+                        <div class="section">
+                           <div class="region region-highlighted">
+                              <div id="block-views-redes-sociais-block" class="block block-views first last odd">
+                                 <div class="content">
+                                    <div class="view view-redes-sociais view-id-redes_sociais view-display-id-block view-dom-id-6adeaa51d0e2546272c7ef01a61facd2">
+                                       <div class="view-content">
+                                          <div class="views-row views-row-2 views-row-even views-row-last">
+                                             <div class="views-field views-field-field-social-field">
+                                                <div class="field-content">
+                                                   <div class="field field-name-field-social-field field-type-social-links-field  social-links">
+                                                      <div class="item-list">
+                                                         <ul class="field-items">
+                                                            <li class="field-item service-facebook first"><a href="https://www.facebook.com/ufessaomateus"><i class="icon icon-facebook">Ir para página oficial do CEUNES/UFES no Facebook</i></a></li>
+                                                            <li class="field-item service-instagram last"><a href="https://www.instagram.com/ufes.saomateus/"><i class="icon icon-instagram">Ir para página oficial do CEUNES/UFES no Instagram</i></a></li>
+                                                         </ul>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <!-- /.block -->
+                           </div>
+                           <!-- /.region -->
+
+                           <h1 class="title" id="page-title">Seja bem-vindo</h1>
+                           <div class="region region-content">
+                              <div id="block-views-destaques-block-1" class="block block-views first odd">
+                                 <div class="content">
+                                    <div class="view view-destaques view-id-destaques view-display-id-block_1 view-dom-id-89fcfc7e554e8a744a7875814a64800a">
+                                       <div class="view-content">
+                                          <ul class="jcarousel jcarousel-view--destaques--block-1 jcarousel-dom-2 jcarousel-skin-ufes">
+                                             <li class="jcarousel-item-1 odd" style="display: none;">
+                                                <div class="views-field views-field-title">        
+                                                  <span class="field-content">
+                                                    <a href="/conteudo/atualizacao-sobre-o-abastecimento-de-agua-no-campus">Atualização sobre o abastecimento de água no campus.</a>
+                                                  </span>  
+                                                </div>
+                                                <div class="views-field views-field-body">
+                                                   <div class="field-content">
+                                                      <p>A Diretoria de Infraestrutura Setorial Norte informa que as bombas submersas nos dois pontos de captação de água no poço artesiano estão com problemas. Felizmente, há uma bomba nova em estoque e providências já estão sendo tomadas para solucionar o problema. Acredita-se que até o dia 28/06 (quarta-feira) a situação esteja normalizada.</p>
+                                                      <p>Agradecemos a compreensão e a paciência de todos durante esse período. Estamos empenhados em resolver essa situação o mais rápido possível, para garantir o pleno funcionamento do abastecimento de água em nosso campus.</p>
+                                                   </div>
+                                                </div>
+                                             </li>
+                                             <li class="jcarousel-item-2 even" style="display: none;">
+                                                <div class="views-field views-field-field-image">
+                                                   <div class="field-content">
+                                                     <a href="/conteudo/inscricoes-para-o-sisu-202302">
+                                                       <img typeof="foaf:Image" src="https://saomateus.ufes.br/sites/ceunes.ufes.br/files/styles/imagem-jcarousel/public/field/image/sisu_4.png?itok=B_UAumfG" width="378" height="192" alt="Imagem do SISU" />
+                                                     </a>
+                                                   </div>
+                                                </div>
+                                                <div class="views-field views-field-title">        
+                                                  <span class="field-content">
+                                                    <a href="/conteudo/inscricoes-para-o-sisu-202302">Inscrições para o SiSU 2023/02.</a>
+                                                  </span>  
+                                                </div>
+                                                <div class="views-field views-field-body">
+                                                   <div class="field-content">
+                                                      <p>Estão abertas até 22/06/2023 as inscrições para a segunda edição do Sistema de Seleção Unificada (SISU 2023/2). O Ceunes/ Ufes oferta 250 vagas entre os cursos de:</p>
+                                                      <p>- Bacharel em Ciência da Computação (Turnos Matutino e Vespertino)</p>
+                                                      <p>- Licenciatura em Ciências Biológicas (Turno Noturno)</p>
+                                                      <p>- Licenciatura em Matemática (Turno Noturno)</p>
+                                                      <p>- Licenciatura em Física (Turno Noturno)</p>
+                                                      <p>- Licenciatura em Química (Turno Noturno)</p>
+                                                   </div>
+                                                </div>
+                                             </li>
+                                             <li class="jcarousel-item-3 odd" style="display: none;">
+                                                <div class="views-field views-field-title">        
+                                                  <span class="field-content">
+                                                    <a href="/conteudo/resultados-da-selecao-do-segundo-edital-paepe">Resultados da seleção do segundo edital Paepe.</a>
+                                                  </span>  
+                                                </div>
+                                                <div class="views-field views-field-body">
+                                                   <div class="field-content">
+                                                      <p>Seguem em anexo as planilhas dos resultados da seleção do segundo edital Paepe após apreciados os recursos.</p>
+                                                      <p><a href="https://saomateus.ufes.br/sites/ceunes.ufes.br/files/field/anexo/resultado-paepe-1_final.pdf#overlay-context=user">Resultado PaEPE I</a></p>
+                                                      <p><a href="https://saomateus.ufes.br/sites/ceunes.ufes.br/files/field/anexo/resultado-paepe-2_final.pdf#overlay-context=user">Resultado PaEPE II</a></p>
+                                                   </div>
+                                                </div>
+                                             </li>
+                                             <li class="jcarousel-item-4 even" style="display: none;">
+                                                <div class="views-field views-field-field-image">
+                                                   <div class="field-content">
+                                                     <a href="/conteudo/i-sitarp-simposio-sobre-tecnologia-de-aplicacao-de-defensivos-e-fertilizantes-foliares-por">
+                                                       <img typeof="foaf:Image" src="https://saomateus.ufes.br/sites/ceunes.ufes.br/files/styles/imagem-jcarousel/public/field/image/whatsapp_image_2023-06-19_at_11.18.28.jpeg?itok=P7NvEvmA" width="378" height="192" alt="Imagem da logomarca do WhatsApp" />
+                                                     </a>
+                                                   </div>
+                                                </div>
+                                                <div class="views-field views-field-title">        
+                                                  <span class="field-content">
+                                                    <a href="/conteudo/i-sitarp-simposio-sobre-tecnologia-de-aplicacao-de-defensivos-e-fertilizantes-foliares-por">I SITARP - Simpósio sobre tecnologia de aplicação de defensivos e fertilizantes foliares por meio de drones.</a>
+                                                  </span>  
+                                                </div>
+                                                <div class="views-field views-field-body">
+                                                   <div class="field-content">
+                                                      <p>No dia 29 de junho (quinta-feira) será realizado no auditório do Ceunes o I SITARP - Simpósio sobre tecnologia de aplicação de defensivos e fertilizantes foliares por meio de drones.</p>
+                                                      <p>Para maiores informações e para realizar as inscrições, acesse a programação em anexo.</p>
+                                                      <p><strong>PROGRAMAÇÃO</strong></p>
+                                                      <p><strong>07H30-08H20</strong>:INSCRIÇÕES E ENTREGA DO MATERIAL DO SIMPÓSIO</p>
+                                                      <p><strong>08H20-08H50:</strong>CERIMÔNIA DE ABERTURA</p>
+                                                   </div>
+                                                </div>
+                                             </li>
+                                          </ul>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <!-- /.block -->
+                              <div id="block-quicktabs-quicktabs-noticias-interna" class="block block-quicktabs even">
+                                 <div class="content">
+                                    <div  id="quicktabs-quicktabs_noticias_interna" class="quicktabs-wrapper quicktabs-style-nostyle">
+                                       <div class="item-list">
+                                          <ul class="quicktabs-tabs quicktabs-style-nostyle">
+                                             <li class="active first"><a href="/destaques?qt-quicktabs_noticias_interna=0#qt-quicktabs_noticias_interna" id="quicktabs-tab-quicktabs_noticias_interna-0" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-noticias-bloco-noticias active">Notícias</a></li>
+                                             <li><a href="/destaques?qt-quicktabs_noticias_interna=1#qt-quicktabs_noticias_interna" id="quicktabs-tab-quicktabs_noticias_interna-1" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-noticias-bloco-eventos active">Eventos</a></li>
+                                             <li><a href="/destaques?qt-quicktabs_noticias_interna=2#qt-quicktabs_noticias_interna" id="quicktabs-tab-quicktabs_noticias_interna-2" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-noticias-bloco-editais active">Editais</a></li>
+                                             <li class="last"><a href="/destaques?qt-quicktabs_noticias_interna=3#qt-quicktabs_noticias_interna" id="quicktabs-tab-quicktabs_noticias_interna-3" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-noticias-bloco-defesas active">Defesas</a></li>
+                                          </ul>
+                                       </div>
+                                       <div id="quicktabs-container-quicktabs_noticias_interna" class="quicktabs_main quicktabs-style-nostyle">
+                                          <div  id="quicktabs-tabpage-quicktabs_noticias_interna-0" class="quicktabs-tabpage ">
+                                             <div class="view view-noticias view-id-noticias view-display-id-bloco_noticias view-dom-id-fd8fb1fae08b16fb6a7143cbd3a0be23">
+                                                <div class="view-content">
+                                                   <div class="views-responsive-grid views-responsive-grid-vertical views-columns-2">
+                                                      <div class="views-column views-column-1 views-column-first">
+                                                         <div class="views-row views-row-1 views-row-first">
+                                                            <div id="node-1435" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/atualizacao-sobre-o-abastecimento-de-agua-no-campus" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/atualizacao-sobre-o-abastecimento-de-agua-no-campus">Atualização sobre o abastecimento de água no campus.</a></h2>
+                                                              <span property="dc:title" class="rdf-meta element-hidden"> Atualização sobre o abastecimento de água no campus.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>A Diretoria de Infraestrutura Setorial Norte informa que as bombas submersas nos dois pontos de captação de água no poço artesiano estão com problemas. Felizmente, há uma bomba nova em estoque e providências já estão sendo tomadas para solucionar o problema. Acredita-se que até o dia 28/06 (quarta-feira) a situação esteja normalizada.</p>
+                                                                           <p>Agradecemos a compreensão e a paciência de todos durante esse período. Estamos empenhados em resolver essa situação o mais rápido possível, para garantir o pleno funcionamento do abastecimento de água em nosso campus.</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                         <div class="views-row views-row-2 views-row-last">
+                                                            <div id="node-1434" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/inscricoes-para-o-sisu-202302" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/inscricoes-para-o-sisu-202302">Inscrições para o SiSU 2023/02.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Inscrições para o SiSU 2023/02.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>Estão abertas até 22/06/2023 as inscrições para a segunda edição do Sistema de Seleção Unificada (SISU 2023/2). O Ceunes/ Ufes oferta 250 vagas entre os cursos de:</p>
+                                                                           <p>- Bacharel em Ciência da Computação (Turnos Matutino e Vespertino)</p>
+                                                                           <p>- Licenciatura em Ciências Biológicas (Turno Noturno)</p>
+                                                                           <p>- Licenciatura em Matemática (Turno Noturno)</p>
+                                                                           <p>- Licenciatura em Física (Turno Noturno)</p>
+                                                                           <p>- Licenciatura em Química (Turno Noturno)</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                      </div>
+                                                      <div class="views-column views-column-2 views-column-last">
+                                                         <div class="views-row views-row-1 views-row-first">
+                                                            <div id="node-1433" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/resultados-da-selecao-do-segundo-edital-paepe" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/resultados-da-selecao-do-segundo-edital-paepe">Resultados da seleção do segundo edital Paepe.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Resultados da seleção do segundo edital Paepe.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>Seguem em anexo as planilhas dos resultados da seleção do segundo edital Paepe após apreciados os recursos.</p>
+                                                                           <p><a href="https://saomateus.ufes.br/sites/ceunes.ufes.br/files/field/anexo/resultado-paepe-1_final.pdf#overlay-context=user">Resultado PaEPE I</a></p>
+                                                                           <p><a href="https://saomateus.ufes.br/sites/ceunes.ufes.br/files/field/anexo/resultado-paepe-2_final.pdf#overlay-context=user">Resultado PaEPE II</a></p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                         <div class="views-row views-row-2 views-row-last">
+                                                            <div id="node-1432" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/i-sitarp-simposio-sobre-tecnologia-de-aplicacao-de-defensivos-e-fertilizantes-foliares-por" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/i-sitarp-simposio-sobre-tecnologia-de-aplicacao-de-defensivos-e-fertilizantes-foliares-por">I SITARP - Simpósio sobre tecnologia de aplicação de defensivos e fertilizantes foliares por meio de drones.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> I SITARP - Simpósio sobre tecnologia de aplicação de defensivos e fertilizantes foliares por meio de drones.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>No dia 29 de junho (quinta-feira) será realizado no auditório do Ceunes o I SITARP - Simpósio sobre tecnologia de aplicação de defensivos e fertilizantes foliares por meio de drones.</p>
+                                                                           <p>Para maiores informações e para realizar as inscrições, acesse a programação em anexo.</p>
+                                                                           <p><strong>PROGRAMAÇÃO</strong></p>
+                                                                           <p><strong>07H30-08H20</strong>:INSCRIÇÕES E ENTREGA DO MATERIAL DO SIMPÓSIO</p>
+                                                                           <p><strong>08H20-08H50:</strong>CERIMÔNIA DE ABERTURA</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="more-link">
+                                                   <a href="/noticias">
+                                                   Todas as notícias  </a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                          <div  id="quicktabs-tabpage-quicktabs_noticias_interna-1" class="quicktabs-tabpage quicktabs-hide">
+                                             <div class="view view-noticias view-id-noticias view-display-id-bloco_eventos view-dom-id-7b526280a6cf329052e9dd8424d31cb6">
+                                                <div class="view-content">
+                                                   <div class="views-responsive-grid views-responsive-grid-vertical views-columns-2">
+                                                      <div class="views-column views-column-1 views-column-first">
+                                                         <div class="views-row views-row-1 views-row-first">
+                                                            <div id="node-1432" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/i-sitarp-simposio-sobre-tecnologia-de-aplicacao-de-defensivos-e-fertilizantes-foliares-por" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/i-sitarp-simposio-sobre-tecnologia-de-aplicacao-de-defensivos-e-fertilizantes-foliares-por">I SITARP - Simpósio sobre tecnologia de aplicação de defensivos e fertilizantes foliares por meio de drones.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> I SITARP - Simpósio sobre tecnologia de aplicação de defensivos e fertilizantes foliares por meio de drones.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>No dia 29 de junho (quinta-feira) será realizado no auditório do Ceunes o I SITARP - Simpósio sobre tecnologia de aplicação de defensivos e fertilizantes foliares por meio de drones.</p>
+                                                                           <p>Para maiores informações e para realizar as inscrições, acesse a programação em anexo.</p>
+                                                                           <p><strong>PROGRAMAÇÃO</strong></p>
+                                                                           <p><strong>07H30-08H20</strong>:INSCRIÇÕES E ENTREGA DO MATERIAL DO SIMPÓSIO</p>
+                                                                           <p><strong>08H20-08H50:</strong>CERIMÔNIA DE ABERTURA</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                         <div class="views-row views-row-2 views-row-last">
+                                                            <div id="node-1426" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/encontro-com-ex-alunos-da-fisica-0" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/encontro-com-ex-alunos-da-fisica-0">Encontro com Ex-alunos da Física.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Encontro com Ex-alunos da Física.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>No dia 19 de junho de 2023 às 19h no auditório da Biblioteca Setorial Norte teremos mais uma edição do Encontro com Ex-alunos da Física. Dessa vez o encontro será com o ex-aluno Alexandre Almeida, que possui graduação em Física (Licenciatura) pela Universidade Federal do Espirito Santo (2015-2019). Mestrado em Física pela Universidade Federal do Espírito Santo (2020-2022), com especialidade em Cosmologia e Gravitação, investigando teorias de gravitação modificada.</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                      </div>
+                                                      <div class="views-column views-column-2 views-column-last">
+                                                         <div class="views-row views-row-1 views-row-first">
+                                                            <div id="node-1423" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/5o-festival-do-minuto" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/5o-festival-do-minuto">5º Festival do Minuto.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> 5º Festival do Minuto.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p class="rtejustify">O Festival do Minuto está em sua 5° edição. É um evento realizado pelo Curso de Pedagogia (CEUNES/UFES) com periodicidade anual, propondo reflexões a partir de um tema. Considerando ser um evento voltado ao audiovisual, incentiva a produção de curta-metragem de até 1 minuto de duração e exibição no evento oficial do Festival que ocorrerá nas dependências do Centro Universitário Norte do Espírito Santo, na data de 19/07/2023. Esta edição incentiva a reflexão sobre o tema: COMO SERIA SE... ASSIM FOSSE...</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                         <div class="views-row views-row-2 views-row-last">
+                                                            <div id="node-1420" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/exposicao-cientistas-brasileiras-90-anos-de-niede-guidon" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/exposicao-cientistas-brasileiras-90-anos-de-niede-guidon">Exposição Cientistas Brasileiras - 90 anos de Niède Guidon</a></h2>
+                                                              <span property="dc:title" class="rdf-meta element-hidden"> Exposição Cientistas Brasileiras - 90 anos de Niède Guidon </span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p class="rtejustify">Em homenagem às pesquisadoras brasileiras, na próxima segunda-feira (05/06) a Biblioteca Setorial Norte estará recebendo a exposição  Cientistas Brasileiras - 90 anos de Niède Guidon, organizada em parceria com o Laboratório de Ensino de Biologia (LEB) da Universidade.</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="more-link">
+                                                   <a href="/noticias">
+                                                   Todas as notícias  </a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                          <div  id="quicktabs-tabpage-quicktabs_noticias_interna-2" class="quicktabs-tabpage quicktabs-hide">
+                                             <div class="view view-noticias view-id-noticias view-display-id-bloco_editais view-dom-id-22ccc2403dbb85a3177b583fd7c09676">
+                                                <div class="view-content">
+                                                   <div class="views-responsive-grid views-responsive-grid-vertical views-columns-2">
+                                                      <div class="views-column views-column-1 views-column-first">
+                                                         <div class="views-row views-row-1 views-row-first">
+                                                            <div id="node-1424" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/resultado-da-classificacao-do-segundo-edital-paepe" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/resultado-da-classificacao-do-segundo-edital-paepe"> Resultado da classificação do segundo edital Paepe.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Resultado da classificação do segundo edital Paepe.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>Segue em anexo o resultado da classificação do segundo edital Paepe. A comissão aceitará recursos fundamentados até o dia 08/06. Algumas observações:</p>
+                                                                           <p>1. Alunos inscritos no novo edital não podem ter classificação melhor dos que já haviam se inscrito no primeiro, que foram destacados em amarelo.</p>
+                                                                           <p>2. Houve um erro na ordem dos suplentes em alguns projetos Paepe I na divulgação anterior, que foram corrigidos nesta ocasião. Aceitaremos também recursos referentes a essa reordenação.</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                         <div class="views-row views-row-2 views-row-last">
+                                                            <div id="node-1422" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/edital-no-1212023-professor-do-magisterio-superior-substituto-do-departamento-de-educacao-e" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/edital-no-1212023-professor-do-magisterio-superior-substituto-do-departamento-de-educacao-e">Edital nº 121/2023 - Professor do Magistério Superior Substituto do Departamento de Educação e Ciências Humanas.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Edital nº 121/2023 - Professor do Magistério Superior Substituto do Departamento de Educação e Ciências Humanas.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>A Pró-Reitora de Gestão de Pessoas da Universidade Federal do Espírito Santo, usando de suas atribuições, torna público que será realizado Processo Seletivo Simplificado para contratação de PROFESSOR SUBSTITUTO para esta Instituição Federal de Ensino, de acordo com a Lei no 8.745/93 e suas alterações, a Resolução no 41/2011-CEPE/UFES, a Instrução Normativa Conjunta no 01/2020-PROGEP-STI/UFES e de acordo com as normas e condições contidas neste edital.</p>
+                                                                           <p>Para maiores informações acesse o edital em anexo.</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                      </div>
+                                                      <div class="views-column views-column-2 views-column-last">
+                                                         <div class="views-row views-row-1 views-row-first">
+                                                            <div id="node-1414" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/inscricoes-para-bolsas-remanescentes-do-paepe" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/inscricoes-para-bolsas-remanescentes-do-paepe">Inscrições para as bolsas remanescentes do PaEPE.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Inscrições para as bolsas remanescentes do PaEPE.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>A Proplan torna público os Editais Nº 003/2023 (PaEPE I – Monitoria) e Nº 004/2023 (PaEPE II – Apoio Administrativo) para reabertura do período de inscrições dos estudantes de graduação da Ufes para as bolsas remanescentes dos PaEPE.</p>
+                                                                           <p>Acesse os editais em anexos para maiores informações.</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                         <div class="views-row views-row-2 views-row-last">
+                                                            <div id="node-1387" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/resultado-parcial-do-processo-seletivo-para-monitores-referente-ao-edital-dcn-ndeg-0022023" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/resultado-parcial-do-processo-seletivo-para-monitores-referente-ao-edital-dcn-ndeg-0022023">Resultado Parcial do processo seletivo para monitores referente ao EDITAL DCN N° 002/2023 – Programa Institucional de Apoio Acadêmico – PIAA - Vagas Remanescentes. </a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Resultado Parcial do processo seletivo para monitores referente ao EDITAL DCN N° 002/2023 – Programa Institucional de Apoio Acadêmico – PIAA - Vagas Remanescentes.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>A coordenação do PIAA fez ampla divulgação do Edital no 002/2023 via portal do aluno e site do CEUNES, e, apesar da divulgação, não houve número de inscritos que possuíssem no mínimo o 4o período completo e estivessem regularmente matriculados no quantitativo mínimo de 180 h, no semestre 2023/1, conforme estabelecido pelo edital.</p>
+                                                                           <p>Para não prejudicar o bom andamento do projeto PIAA 2023, a DAA/Prograd e a coordenação decidiram que estarão aptos a participar da seleção os candidatos que estejam nas seguintes condições, em ordem de prioridade:</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="more-link">
+                                                   <a href="/noticias">
+                                                   Todas as notícias  </a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                          <div  id="quicktabs-tabpage-quicktabs_noticias_interna-3" class="quicktabs-tabpage quicktabs-hide">
+                                             <div class="view view-noticias view-id-noticias view-display-id-bloco_defesas view-dom-id-a430032482f73c97f7f2b095be89c874">
+                                                <div class="view-content">
+                                                   <div class="views-responsive-grid views-responsive-grid-vertical views-columns-2">
+                                                      <div class="views-column views-column-1 views-column-first">
+                                                         <div class="views-row views-row-1 views-row-first">
+                                                            <div id="node-1371" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/defesa-de-memorial-do-professor-edurado-perini-muniz" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/defesa-de-memorial-do-professor-edurado-perini-muniz">Defesa de Memorial do Professor  Edurado Perini Muniz </a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Defesa de Memorial do Professor  Edurado Perini Muniz</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>Convidamos a todos para participarem da defesa de memorial do professor  Edurado Perini Muniz para acesso a classe de professor titular da UFES.</p>
+                                                                           <p>Defesa de Memorial Prof.  Edurado Perini Muniz  - Acesso a classe de Professor Titular</p>
+                                                                           <p>Segunda-feira, 14 de abril 17:00h</p>
+                                                                              <p>Informações de participação do Google Meet</p>
+                                                                              <a href="https://meet.google.com/dqi-ypvd-acn" rel="nofollow">Link da videochamada para defesa de memorial do Professor Eduardo Perini</a>
+                                                                           </p>
+                                                                        
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                         <div class="views-row views-row-2 views-row-last">
+                                                            <div id="node-1370" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/defesa-de-memorial-da-professora-gilmene-bianco" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/defesa-de-memorial-da-professora-gilmene-bianco">Defesa de Memorial da Professora. Gilmene Bianco.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Defesa de Memorial da Professora. Gilmene Bianco.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>Convidamos a todos para participarem da defesa de memorial da professora Gilmene Bianco para acesso a classe de professor titular da UFES.</p>
+                                                                           <p>Defesa de Memorial Profa. Gilmene Bianco  - Acesso a classe de Professor Titular</p>
+                                                                           <p>Quarta-feira, 19 de abril 09:00h</p>
+                                                                           <p>Informações de participação do Google Meet</p>
+                                                                            <a href="https://meet.google.com/djw-zbwy-ktg" rel="nofollow">Link da videochamada para defesa de memorial da Professora Gilmene Bianco</a>
+                                                                           </p>
+                                                                           <p>Quarta-feira, 19 de abril · 9:00am até 12:00pm</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                      </div>
+                                                      <div class="views-column views-column-2 views-column-last">
+                                                         <div class="views-row views-row-1 views-row-first">
+                                                            <div id="node-1310" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/defesa-de-memorial-prof-paulo-porto" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/defesa-de-memorial-prof-paulo-porto">Defesa de Memorial Prof. Paulo Porto.</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Defesa de Memorial Prof. Paulo Porto.</span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>Convidamos a todos para participarem da defesa de memorial do professor Paulo Sergio da Silva Porto para acesso a classe de professor titular da UFES.</p>
+                                                                           <p>Defesa de Memorial Prof. Paulo Porto - Acesso a classe de Professor Titular</p>
+                                                                           <p>Segunda-feira, 19 de dezembro · 8:00am até 12:00pm</p>
+                                                                           <p>Informações de participação do Google Meet</p>
+                                                                           <a href="https://meet.google.com/pmv-ncks-vvs" rel="nofollow">Link da videochamada para defesa de memorial do Professor Paulo Sergio da Silva Porto</a>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                         <div class="views-row views-row-2 views-row-last">
+                                                            <div id="node-1293" class="node node-article node-promoted node-teaser clearfix" about="/conteudo/sessao-publica-de-defesa-de-memorial" typeof="sioc:Item foaf:Document">
+                                                               <h2 class="node-title"><a href="/conteudo/sessao-publica-de-defesa-de-memorial">Sessão Pública de Defesa de Memorial</a></h2>
+                                                               <span property="dc:title" class="rdf-meta element-hidden"> Sessão Pública de Defesa de Memorial </span>
+                                                               <div class="content">
+                                                                  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+                                                                     <div class="field-items">
+                                                                        <div class="field-item even" property="content:encoded">
+                                                                           <p>O Centro Universitário Norte do Espírito Santo convida a todos para a sessão pública de defesa de memorial, parte da avaliação de promoção a professor titular, a ser realizada na quarta-feira, dia 23/11/2022, às 08:00 horas da manhã, no <a href="https://meet.google.com/obe-wpoe-cjx" rel="nofollow">Link da videochamada</a></p>
+                                                                           <p><strong>INTERESSADO:</strong> Prof. Dr. Vander Calmon Tosta</p>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                            <!-- /.node -->
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                                <div class="more-link">
+                                                   <a href="/noticias">
+                                                   Todas as notícias  </a>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <!-- /.block -->
+                           </div>
+                           <!-- /.region -->
+                        </div>
+                     </div>
+                     <!-- /.section, /#content -->
+                     <div class="region region-sidebar-first column sidebar">
+                        <div class="section">
+                           <div id="block-menu-menudeconteudo" class="block block-menu first last odd">
+                              <div class="content">
+                                 <ul class="menu">
+                                    <li class="first collapsed dhtml-menu start-collapsed" id="dhtml_menu-407">
+                                       <a title="" class="nolink">Sobre o Ceunes</a>
+                                       <ul class="menu">
+                                          <li class="first leaf dhtml-menu" id="dhtml_menu-439"><a href="/historico">Histórico</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-445"><a href="/ceunes-em-numeros">Ceunes em números</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-432"><a href="/organograma">Organograma</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-433"><a href="/mapa-do-centro">Mapa do Centro</a></li>
+                                          <li class="last leaf dhtml-menu" id="dhtml_menu-434"><a href="/localiza%C3%A7%C3%A3o">Localização</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-408">
+                                       <a title="" class="nolink">Administração</a>
+                                       <ul class="menu">
+                                          <li class="first leaf dhtml-menu" id="dhtml_menu-409"><a href="/direcao">Direção</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-451"><a href="/conselho-departamental">Conselho Departamental</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-413"><a href="/comites-e-comissoes">Comitês e Comissões</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-447"><a href="/representantes">Representantes</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-448"><a href="/assessorias">Assessorias</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-411"><a href="/secretaria-geral">Secretaria Geral</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-420"><a href="http://subprefeitura.saomateus.ufes.br" title="">Diretoria de Infraestrutura - Setorial Norte</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-419"><a href="http://gestaoadministrativa.saomateus.ufes.br" title="">Diretoria de Suporte Administrativo - Setorial Norte</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-548"><a href="/camara-local-de-graduacao">Câmara Local de Graduação</a></li>
+                                          <li class="last leaf dhtml-menu" id="dhtml_menu-574"><a href="/camara-local-de-extensao">Câmara Local de Extensão</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-562"><a href="/atos-normativos">Atos normativos</a></li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-414"><a href="/departamentos">Departamentos</a></li>
+                                    <li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-489">
+                                       <a title="" class="nolink">Ensino</a>
+                                       <ul class="menu">
+                                          <li class="first leaf dhtml-menu" id="dhtml_menu-485"><a href="http://graduacao.saomateus.ufes.br" >Secretaria Única de Graduação</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-424"><a href="http://posgraduacao.saomateus.ufes.br">Secretaria Única de Pós-Graduação</a></li>
+                                          <li class="last leaf dhtml-menu" id="dhtml_menu-482"><a href="https://ceunes.edupage.org/timetable" >Horário 2023/1</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-490"><a href="/pesquisa">Pesquisa</a></li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-491"><a href="https://extensao.saomateus.ufes.br/">Extensão</a></li>
+                                    <li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-533">
+                                       <a title="" class="nolink">Programas</a>
+                                       <ul class="menu">
+                                          <li class="first last leaf dhtml-menu" id="dhtml_menu-534"><a href="https://ufes.br/">Enciclopédias PET ProdBio</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-539">
+                                       <a href="/nucleos">Núcleos</a>
+                                       <ul class="menu">
+                                          <li class="first leaf dhtml-menu" id="dhtml_menu-540"><a href="http://nuac.saomateus.ufes.br/" title="Núcleo de Apoio Acadêmico da Ufes campus São Mateus">Nuac/Ufes-SM</a></li>
+                                          <li class="last leaf dhtml-menu" id="dhtml_menu-585"><a href="https://nucec.saomateus.ufes.br/" title="Site do Núcleo de Comunicação, Eventos e Cultura da Ufes campus São Mateus">Nucec/Ufes-SM</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-426">
+                                       <a title="" class="nolink" >Serviços</a>
+                                       <ul class="menu">
+                                          <li class="first leaf dhtml-menu" id="dhtml_menu-526"><a href="/reserva-de-espaco-fisico-0">Reservas</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-444"><a href="http://biblioteca.saomateus.ufes.br/">Biblioteca CEUNES/UFES</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-422"><a href="http://www.casas.saomateus.ufes.br" title="Coordenação de Atenção a Saúde e Assistência Social">DASAS</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-516"><a href="http://www.casas.saomateus.ufes.br/unidade-siass" title="">SIASS</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-583"><a href="https://saomateus.ufes.br/labime" title="">LABIME</a></li>
+                                          <li class="last leaf dhtml-menu" id="dhtml_menu-423"><a href="http://www.restaurante.saomateus.ufes.br" title="">Restaurante Universitário</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-428"><a href="http://fazenda.saomateus.ufes.br" title="">Fazenda Experimental</a></li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-541"><a href="http://herbariosames.saomateus.ufes.br" title="">Herbário SAMES</a></li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-546"><a href="http://jardimbotanicopalmarum.ufes.br" title="Jardim Botânico Palmarum">Jardim Botânico</a></li>
+                                    <li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-575">
+                                       <a title="" class="nolink" >Empresas Juniores</a>
+                                       <ul class="menu">
+                                          <li class="first leaf dhtml-menu" id="dhtml_menu-577"><a href="https://divulgacaodaciencia.ufes.br/adapti-solucoes-web" title="">Adapti</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-578"><a href="https://divulgacaodaciencia.ufes.br/energy-junior" title="">Energy Júnior</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-579"><a href="https://divulgacaodaciencia.ufes.br/projagro-empresa-junior-de-agronomia" title="">Projagro</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-580"><a href="https://divulgacaodaciencia.ufes.br/projeta-junior" title="">Projeta Júnior</a></li>
+                                          <li class="last leaf dhtml-menu" id="dhtml_menu-582"><a href="https://divulgacaodaciencia.ufes.br/zetta-junior" title="">Zetta Júnior</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-394">
+                                       <a title="" class="nolink">Servidor</a>
+                                       <ul class="menu">
+                                          <li class="first leaf dhtml-menu" id="dhtml_menu-398"><a href="https://ufes.br/" title="">Portal do Servidor</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-397"><a href="https://ufes.br/" title="">Portal do Professor</a></li>
+                                          <li class="last leaf dhtml-menu" id="dhtml_menu-400"><a href="/instru%C3%A7%C3%B5es">Progressão Funcional</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-391">
+                                       <a title="" class="nolink" >Aluno</a>
+                                       <ul class="menu">
+                                          <li class="first leaf dhtml-menu" id="dhtml_menu-392"><a href="https://aluno.ufes.br" title="">Portal do Aluno</a></li>
+                                          <li class="leaf dhtml-menu" id="dhtml_menu-393"><a href="/centros-acad%C3%AAmicos">Centros Acadêmicos</a></li>
+                                          <li class="last leaf dhtml-menu" id="dhtml_menu-402"><a href="/da" title="">Diretório Acadêmico</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-484"><a href="http://mail.ufes.br" title="">E-mail Institucional</a></li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-518"><a href="/bolsas-estagios">Bolsas / Estágios</a></li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-556"><a href="/assistencia-estudantil">Assistência Estudantil</a></li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-561"><a href="/cpac">CPAC</a></li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-576"><a title="" class="nolink" >Empresas Juniores</a></li>
+                                    <li class="leaf dhtml-menu" id="dhtml_menu-584"><a href="https://clpgd.saomateus.ufes.br/" title="">CLPGD</a></li>
+                                    <li class="last leaf dhtml-menu" id="dhtml_menu-272"><a href="/fale-conosco">Fale conosco</a></li>
+                                 </ul>
+                              </div>
+                           </div>
+                           <!-- /.block -->
+                        </div>
+                     </div>
+                     <!-- /.section, /.region -->
+                  </div>
+                  <!-- /#content-wrapper -->
+               </div>
+            </div>
+            <!-- /#main, /#main-wrapper -->
+            <div class="region region-footer">
+               <!-- /.block -->
+               <div id="block-block-5" class="block block-block last even">
+                  <div class="content">
+                     <div class="footermap">
+                        <div class="footermap-col" id="footermap-col-menu--none-">
+                           <ul>
+                              <li><strong>Sobre o Ceunes</strong></li>
+                              <li><a href="/histórico">Histórico</a></li>
+                              <li><a href="/ceunes-em-números">Ceunes em números</a></li>
+                              <li><a href="/organograma">Organograma</a></li>
+                              <li><a href="/mapa-do-centro">Mapa do Centro</a></li>
+                              <li><a href="/localização">Localização</a></li>
+                              <li><a href="/concursos">Concursos</a></li>
+                              <li><a href="/fale-conosco">Fale conosco</a></li>
+                           </ul>
+                           <ul>
+                              <li><strong>Administração</strong></li>
+                              <li><a href="/direção">Direção</a></li>
+                              <li><a href="/conselho-departamental">Conselho Departamental</a></li>
+                              <li><a href="/comitês-e-comissões">Comitês e Comissões</a></li>
+                              <li><a href="/representantes">Representantes</a></li>
+                              <li><a href="/assessorias">Assessorias</a></li>
+                              <li><a href="/secretaria-geral">Secretaria Geral</a></li>
+                              <li><a href="http://gestaoadministrativa.saomateus.ufes.br/">Diretoria de Suporte Administrativo - Setorial Norte</a></li>
+                           </ul>
+                           <ul>
+                              <li><strong>Serviços</strong></li>
+                              <li><a href="/biblioteca">Biblioteca</a></li>
+                              <li><a href="http://www.casas.saomateus.ufes.br/">DASAS</a></li>
+                              <li><a href="http://www.restaurante.saomateus.ufes.br/">Restaurante Universitário</a></li>
+                              <li><a href="http://subprefeitura.saomateus.ufes.br/">Diretoria de Infraestrutura - Setorial Norte</a></li>
+                              <li><a href="http://cti.saomateus.ufes.br/">Divisão de TI - Setorial Norte</a></li>
+                              <li><a href="/departamentos">Departamentos</a></li>
+                              <li><a href="/graduação">Graduação</a></li>
+                              <li><a href="/pós-graduação">Pós-Graduação</a></li>
+                              <li><a href="http://fazenda.saomateus.ufes.br/">Fazenda Experimental</a></li>
+                           </ul>
+                           <ul>
+                              <li><strong>Servidor</strong></li>
+                              <li><a href="https://ufes.br/">Portal do Servidor</a></li>
+                              <li><a href="https://ufes.br/">Portal do Professor</a></li>
+                              <li><a href="/instruções">Progressão Funcional</a></li>
+                           </ul>
+                           <ul>
+                              <li><strong>Aluno</strong></li>
+                              <li><a href="https://aluno.ufes.br/">Portal do Aluno</a></li>
+                              <li><a href="/centros-acadêmicos">Centros Acadêmicos</a></li>
+                              <li><a href="/sobre">Diretório Acadêmico</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <!-- /.block -->
+            </div>
+            <!-- /.region -->
+         </div>
+      </div>
+      <!-- /#page, /#page-wrapper -->
+      <div class="region region-bottom">
+         <div id="block-views-d4751c8102e95726f4b14bdf28a762da" class="block block-views first odd">
+            <div class="content">
+               <div class="view view-logo-rodape view-id-logo_rodape view-display-id-bloco_logo_obrigatorio view-dom-id-83b813b74ccb2ef8fb37d04a550c6fc7">
+                  <div class="view-content">
+                     <div class="views-row views-row-1 views-row-odd views-row-first horizontal">
+                        <div class="views-field views-field-field-logo-obrigatorio">
+                           <div class="field-content">
+                             <a href="http://ufes.br/">
+                               <img typeof="foaf:Image" src="https://saomateus.ufes.br/sites/ceunes.ufes.br/files/styles/logo_rodape/public/transparencia_publica.jpg?itok=zZR7mbCm" width="106" height="40" alt="Transparência Pública" />
+                             </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="views-row views-row-2 views-row-even horizontal">
+                        <div class="views-field views-field-field-logo-obrigatorio">
+                           <div class="field-content">
+                             <a href="http://sic.ufes.br/">
+                               <img typeof="foaf:Image" src="https://saomateus.ufes.br/sites/ceunes.ufes.br/files/styles/logo_rodape/public/selo_acesso_horizontal.jpg?itok=WUGmEntw" width="93" height="40" alt="Acesso à informação" />
+                             </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="views-row views-row-3 views-row-odd views-row-last horizontal">
+                        <div class="views-field views-field-field-logo-obrigatorio">
+                           <div class="field-content">
+                             <a href="https://www.facebook.com/ufessaomateus?ref=aymt_homepage_panel">
+                               <img typeof="foaf:Image" src="https://saomateus.ufes.br/sites/ceunes.ufes.br/files/styles/logo_rodape/public/facebookceunes.jpg?itok=9xvlsAK7" width="125" height="40" alt="Facebook" />
+                             </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- /.block -->
+         <div id="block-block-3" class="block block-block last even">
+            <div class="content">
+               <p>© 2013 Universidade Federal do Espírito Santo. Todos os direitos reservados.</p>
+               <p>Rodovia Governador Mário Covas, Km 60 - Bairro Litorâneo, São Mateus - ES | CEP 29932-540</p>
+            </div>
+         </div>
+         <!-- /.block -->
+      </div>
+   </body>
+</html>
